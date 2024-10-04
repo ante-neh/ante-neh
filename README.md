@@ -7,7 +7,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ante-neh&" alt="ante-neh" /></p>
 
 <!-- If you want to include top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ante-neh&layout=compact&theme=default)
 <!--
 **ante-neh/ante-neh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
